@@ -1,0 +1,4 @@
+name = "libactivation"
+uuid = "ccbb162a-77fd-4ef3-a979-15229d1f6ee3"
+authors = ["Bastiaan Quast <bquast@gmail.com>"]
+version = "0.1.0"
